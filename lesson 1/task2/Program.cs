@@ -13,6 +13,6 @@ if (var1 > var2) {
 if (max > var3) {
     Console.WriteLine($"Максимальное число = {max}");
 } else {
-    Console.WriteLine($"Максимальное число = {var1}");
+    Console.WriteLine($"Максимальное число = {var3}");
 }
 
