@@ -1,0 +1,15 @@
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.csproj.AssemblyReference.cache
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.AssemblyInfoInputs.cache
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.AssemblyInfo.cs
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.csproj.CoreCompileInputs.cache
+C:\Users\aleks\C#\GB\lesson5\task27\bin\Debug\net8.0\task27.exe
+C:\Users\aleks\C#\GB\lesson5\task27\bin\Debug\net8.0\task27.deps.json
+C:\Users\aleks\C#\GB\lesson5\task27\bin\Debug\net8.0\task27.runtimeconfig.json
+C:\Users\aleks\C#\GB\lesson5\task27\bin\Debug\net8.0\task27.dll
+C:\Users\aleks\C#\GB\lesson5\task27\bin\Debug\net8.0\task27.pdb
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.dll
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\refint\task27.dll
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.pdb
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\task27.genruntimeconfig.cache
+C:\Users\aleks\C#\GB\lesson5\task27\obj\Debug\net8.0\ref\task27.dll
